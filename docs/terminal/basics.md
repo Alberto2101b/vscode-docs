@@ -9,7 +9,7 @@ MetaDescription: Visual Studio Code has an integrated terminal to enable working
 ---
 # Terminal Basics
 
-Visual Studio Code includes a full featured integrated terminal that starts at the root of your workspace. It provides integration with the editor to support features like [links](#links) and [error detection](/docs/editor/tasks.md). The integrated terminal can run commands such as mkdir and git just like a standalone terminal.
+Visual Studio Code includes a full featured integrated terminal that starts at the root of your workspace. It provides integration with the editor to support features like [linkslinks](linkslinksslinkslinkssslinkslinksslinkslinksssss) and [error detecdetectiontion](/docs/editor/tasks.md). The integrated terminal can run commands such as mkdir and git just like a standalone terminal.
 
 You can open a terminal as follows:
 
